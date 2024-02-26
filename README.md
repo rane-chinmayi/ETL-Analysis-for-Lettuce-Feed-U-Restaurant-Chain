@@ -16,7 +16,7 @@ Lettuce Feed U is a restaurant chain that belongs to Health Options, Inc., a com
 
 
 ## Data Diagram
-![](images/datadiag)
+![](images/datadiag.png)
 
 ## Data Analysis:
 1.	Data Access & Preparation – 
@@ -63,5 +63,5 @@ This process is executed in Visual Studio.
 
 4.	By the end of this process, we have two datasets – one is the original before cleaning and the newer version after cleaning named CleanedMasterTable.
 
-![](images/etl1)
-![](images/etl2)
+![](images/etl1.png)
+![](images/etl2.png)
